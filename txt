@@ -1,0 +1,4 @@
+
+    ⏹   -  stop music
+    🔈  -   mute/unmute
+    +Add    -   add music(mp3 files only) to playlist-Del    -   delete music file from playlist
